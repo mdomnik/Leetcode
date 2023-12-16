@@ -1,1 +1,1 @@
-This repository stores all my successfully passes Leetcode problems
+This repository stores all my successfully passed Leetcode problems
